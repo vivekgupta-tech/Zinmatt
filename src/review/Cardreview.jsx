@@ -4,7 +4,7 @@ import vipin from '../review/img/vipin.png'
 import akshay from '../review/img/akshay.png'
  import kuch from '../review/img/kuch.png'
  import amit from '../review/img/amit.png'
- import shuj from "../../review/img/shuj.png";
+ import Shuj from "../../review/img/shuj.png";
  import prasad from '../review/img/prasad.png'
 import ismail from '../review/img/ismail.png'
  import rahul from '../review/img/rahul.png'
@@ -55,7 +55,7 @@ function Cutting() {
     <div className='ml-12 mr-7'>
     
     <div className='flex flex-wrap  justify-center mr-[5%] ml-[5%]'>
-        <div className='w'><img src={vipin} alt="" /><img src={shuj}alt="" /></div>
+        <div className='w'><img src={vipin} alt="" /><img src={Shuj}alt="" /></div>
         <div className='w'><img src={akshay} alt="" /></div>
         <div className='w'><img src={kuch} alt="" /><img src={prasad}alt="" /></div>
         <div className='w'><img src={amit} alt="" /><img src={ismail}alt="" /></div>
