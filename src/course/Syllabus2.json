@@ -1,0 +1,41 @@
+[
+    
+    {
+        "id":1,
+        "pic":"/src/assets/Content.png",
+        "fdevelop":"Content Marketing",
+        "day":"5 Days",
+        "fname":"By Raushan ",
+        "lname":"Kumar",
+        "para":"Content marketing focuses on creating valuable, relevant content to attract, engage, and convert target audiences."
+    },
+    {
+        "id":2,
+        "pic":"/src/assets/Google ads.png",
+        "fdevelop":"Google Ads",
+        "ldevelop":"Optimization",
+        "day":"10 Days",
+        "fname":"By Pankaj ",
+        "lname":"Kumar",
+        "para":"Google Ads helps businesses reach targeted audiences, drive traffic, and increase conversions through paid search advertising."
+    },
+    {
+        "id":3,
+        "pic":"/src/assets/ai.png",
+        "fdevelop":"Artificial Intelligence",
+        "day":"5 Days",
+        "fname":"By Raushan  ",
+        "lname":"Kumar",
+        "para":"Learn AI to automate tasks, enhance decision-making, and create intelligent, data-driven solutions.."
+    },
+    {
+        "id":4,
+        "pic":"/src/assets/Dropshipping.png",
+        "fdevelop":"Dropshipping",
+        "day":"5 Days",
+        "fname":"By Amardeep  ",
+        "lname":"Rawat",
+        "para":"Boost your e-commerce success and profits by mastering the art of dropshipping"
+    }
+   
+]

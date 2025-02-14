@@ -1,0 +1,44 @@
+ [
+    
+    {
+        "id":1,
+        "pic":"/src/assets/wordpress.png",
+        "fdevelop":"WordPress",
+        "ldevelop":"Development",
+        "day":"20 Days",
+        "fname":"By Randheer ",
+        "lname":"Rawat",
+        "para":"Master WordPress development to build websites with themes, plugins, and custom coding expertise."
+    },
+    {
+        "id":2,
+        "pic":"/src/assets/graphics.png",
+        "fdevelop":"Graphics Designing",
+       
+        "day":"5 Days",
+        "fname":"By Manish  ",
+        "lname":"Rawat",
+        "para":"Master graphic design to create stunning visuals using creativity, tools, and techniques."
+    },
+    {
+        "id":3,
+        "pic":"/src/assets/seo.png",
+        "fdevelop":"Search Engine",
+        "ldevelop":"Optimization",
+        "day":"15 Days",
+        "fname":"By Pankaj ",
+        "lname":"Kumar",
+        "para":"Learn SEO strategies to improve website visibility, driving organic traffic and enhancing online presence."
+    },
+    {
+        "id":4,
+        "pic":"/src/assets/Googlebusin.png",
+        "fdevelop":"Google My Business",
+        "ldevelop":"(GMB)",
+        "day":"5 Days",
+        "fname":"By Sidharth ",
+        "lname":"Kumar",
+        "para":"Grow your local presence and attract customers by mastering Google My Business."
+    }
+   
+]

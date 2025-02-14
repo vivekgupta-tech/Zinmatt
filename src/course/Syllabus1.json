@@ -1,0 +1,42 @@
+[
+    
+    {
+        "id":1,
+        "pic":"/src/assets/Emailmar.png",
+        "fdevelop":"Email Marketing",
+        "day":"5 Days",
+        "fname":"By Raushan ",
+        "lname":"Kumar",
+        "para":"Master email marketing to engage audiences, boost conversions, and drive business growth effectively."
+    },
+    {
+        "id":2,
+        "pic":"/src/assets/SocialMedia.png",
+        "fdevelop":"Social Media",
+        "ldevelop":"Optimization",
+        "day":"25 Days",
+        "fname":"By Sidharth ",
+        "lname":"Kumar",
+        "para":"Social media optimization enhances your online presence by optimizing content to increase engagement. "
+    },
+    {
+        "id":3,
+        "pic":"/src/assets/Ad.png",
+        "fdevelop":"Facebook Advertisment",
+        "day":"15 Days",
+        "fname":"By Amardeep ",
+        "lname":"Rawat",
+        "para":"Leverage Facebook Ads to target audiences, drive traffic, and boost business conversions effectively."
+    },
+    {
+        "id":4,
+        "pic":"/src/assets/video.png",
+        "fdevelop":"Video Editing",
+        "ldevelop":"(GMB)",
+        "day":"3 Days",
+        "fname":"By Raushan  ",
+        "lname":"Kumar",
+        "para":"Enhance your storytelling and create professional content by mastering the art of video editing."
+    }
+   
+]

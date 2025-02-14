@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.col{
+    color:#ff7c02;
+}
+.bg{
+    background-color: #ff7c02;
+}
+.bor{
+    background: linear-gradient(to bottom, #fdfdfd, #d2d2d2);
+}
+.rot{
+    transform: rotate(16deg);
+}
+.back{
+   background-color:#f3f7ff;
+}
+.text{
+    color:#ff7c02;
+}
+body{
+    background-color: #f3f7ff;
+}
+.btn{
+    background-color: #f0f5fa;
+}
+.choose{
+    font-family: "Roboto Slab", Sans-serif;
+}
+.shad{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.shade{
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.6);
+}
+.w{
+    flex:25%;
+    max-width: 25%;
+    padding: 8px;
+
+}
+.w img {
+    margin-top: 8px;
+    border-radius:10px;
+    border:1px solid black;
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / .5);
+}
+
+.slide{
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / .5);
+}
+
+.clr{
+    background-color: #3d3b3b;
+}
+.clrs{
+    background-color: #ffb14d;
+}
+.colr{
+    color:#ff6511;
+}
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }

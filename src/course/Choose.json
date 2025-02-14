@@ -1,0 +1,22 @@
+[
+    {
+        "id":2,
+        "pic":"/src/assets/live.png",
+        "fdevelop":"Live Session",
+        "para":"Join our live sessions for real-time learning with industry experts. Get personalized guidance, ask questions, and improve your digital marketing skills instantly."
+    },
+    {
+        "id":3,
+        "pic":"/src/assets/certificate.png",
+        "fdevelop":"Hand Holding Support",
+        "para":"At Zinmatt, we provide dedicated hand-holding support, guiding you step-by-step through your learning journey to ensure you gain confidence and achieve success."
+    },
+    {
+        "id":4,
+        "pic":"/src/assets/chss.png",
+        "fdevelop":"Certification",
+        "para":"Earn a recognized certification from Zinmatt upon course completion. Showcase your digital marketing skills to enhance your resume, boost credibility, and unlock career opportunities."
+    }
+    
+   
+]

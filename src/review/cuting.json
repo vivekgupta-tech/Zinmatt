@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "pic":"/src/review/img/dainik.png"
+    },
+    {
+        "id":2,
+        "pic":"/src/review/img/us.png"
+    },
+    {
+        "id":3,
+        "pic":"/src/review/img/the.png"
+    },
+    {
+        "id":4,
+        "pic":"/src/review/img/nation.png"
+    },
+    {
+        "id":5,
+        "pic":"/src/review/img/sign.png"
+    },
+    {
+        "id":6,
+        "pic":"/src/review/img/prabha.png"
+    },
+    {
+        "id":7,
+        "pic":"/src/review/img/aaj.png"
+    },
+    {
+        "id":8,
+        "pic":"/src/review/img/nvab.png"
+    }
+
+]
