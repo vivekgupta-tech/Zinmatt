@@ -4,7 +4,7 @@ import vipin from '../review/img/vipin.png'
 import akshay from '../review/img/akshay.png'
  import kuch from '../review/img/kuch.png'
  import amit from '../review/img/amit.png'
- import shuj from '../review/img/shuj.png'
+ import shuj from "../../review/img/shuj.png";
  import prasad from '../review/img/prasad.png'
 import ismail from '../review/img/ismail.png'
  import rahul from '../review/img/rahul.png'
